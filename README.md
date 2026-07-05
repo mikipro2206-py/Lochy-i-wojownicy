@@ -1,10 +1,38 @@
-# Lochy-i-wojownicy
-Cześć! Aktualnie uczę się pythona i tworzę własnei ten projekt, chcę zostać w przyszłości game devem, więc już zacząłem nad tym pracować i zacząłem od pythona, juz troche umiem w pythonie więc posatnowiłem stworzyc tą grę.
+# ⚔️ Lochy i Wojownicy
 
-Ta gra to aktualnie prosty rpg w terminalu, cel tego projektu to stworzyć kilka bosów, 0 błędów i wasze propozycje.
+Cześć! Aktualnie uczę się Pythona i tworzę właśnie ten projekt. W przyszłości chcę zostać **Game Devem**, dlatego już teraz zacząłem nad tym pracować. Znam już podstawy języka i postanowiłem stworzyć tę grę!
 
-Kod będe poprawiał ciagle jak mogę, aktualizacje będą pojawiac się minimum raz w miesiącu(przynajmniej mam taką nadzieje).
+### 🕹️ O projekcie
+Ta gra to aktualnie prosty RPG uruchamiany w terminalu. Moje główne cele dla tego projektu to:
+* 👿 Stworzenie kilku unikalnych bossów
+* 🐛 Osiągnięcie stanu "0 błędów" w kodzie
+* 💡 Wdrażanie Waszych ciekawych propozycji!
 
-Jeśli widzisz buga w kodzie – zgłoś go w zakładce Issues!
+### 📅 Aktualizacje
+Kod będę poprawiał tak często, jak tylko mogę. Mam nadzieję, że nowe aktualizacje będą pojawiać się **minimum raz w miesiącu**.
 
-Jeśli chcesz poprawić system walki albo dodać nowe funkcje – śmiało twórz Pull Request! Z chęcią nauczę się czegoś nowego.
+---
+
+### 🤝 Jak możesz pomóc?
+* Jeśli widzisz buga w kodzie – zgłoś go w zakładce **Issues**!
+* Jeśli chcesz poprawić system walki albo dodać nowe funkcje – śmiało twórz **Pull Request**! Z chęcią nauczę się czegoś nowego.
+* Jeśli możesz to wyślij do znajomych, rodziny czy kogoś kto moze się tym zainteresować albo chociaż pobrać, bo każde pobranie mnie motywuje i wspiera.
+
+  ### 🚀 Jak uruchomić grę
+1. Pobierz plik `Lochy-i-wojownicy.py`.
+2. Upewnij się że masz zainstalowany python 3.x.x.
+3. Otwórz cmd w wolderze z Lochy-i-wojownicy.py.
+4. Wpisz w cmd:
+     python Lochy-i-wojownicy.py
+5. Miłej gry
+
+### 🛠️ Aktualne funkcje:
+- [x] Tworzenie postaci i nadawanie imienia
+- [x] Pętla rund i menu wyboru
+- [x] System ulepszania Szczęścia (Luck)
+- [x] Losowa walka z Goblinem (wersja automatyczna z systemem trafień krytycznych i uników, za niedługo jak zrobie upd dodad że będzie trzeba klikać aby walczyć)
+- [ ] System leczenia (w trakcie projektowania)
+- [ ] Więcej rodzajów potworów i boss na koniec rundy 10
+
+### 📄 Licencja
+Projekt jest dostępny na licencji **MIT**. Możesz go dowolnie modyfikować i uczyć się na jego podstawie!
