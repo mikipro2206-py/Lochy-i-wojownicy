@@ -35,4 +35,4 @@ Kod będę poprawiał tak często, jak tylko mogę. Mam nadzieję, że nowe aktu
 - [ ] Więcej rodzajów potworów i boss na koniec rundy 10
 
 ### 📄 Licencja
-Projekt jest dostępny na licencji **MIT**. Możesz go dowolnie modyfikować i uczyć się na jego podstawie!
+Projekt jest dostępny na licencji **GPL-v3**. Możesz go dowolnie modyfikować i uczyć się na jego podstawie!
