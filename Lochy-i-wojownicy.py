@@ -57,18 +57,22 @@ while True:
     if wybor == 2:
         print("Wybrałeś walkę, więc się zaczyna zaraz.")
         czysc_i_czekaj(3)
+        # Bedzie losowało potwora w przyszłosci
         potwor = 1
         if potwor == 1:
             potworek_hp = 50
             print("Przyszło ci się zmierzyć z goblinem")
             while True:
                 # czysc_i_czekaj(3)
+                # losuje zmieną od której zależą wydarzenia
                 szansa = random.randint(luck, 10)
                 if szansa >= 4:
+                    # losuje siłe uderzenia gracza i odejmuje tę siłe od hp potwora
                     uderzenie_gracza = random.randint(luck, 15)
                     potworek_hp = potworek_hp - uderzenie_gracza
                     print(f"Uderzyłeś potwora za {uderzenie_gracza} hp, zostało mu {potworek_hp} zdrowia. ")
-                    czysc_i_czekaj(7)
+                    czysc_i_czekaj(5)
+                    # losuje szanse na unik
                     unik = random.randint(0, 10)
                     if unik >= 5:
                         uderzenie_potwora = random.randint(0, 20)
